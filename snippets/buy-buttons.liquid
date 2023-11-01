@@ -115,19 +115,15 @@
     let input = document.getElementById("customer_image")
 
     if (radio_yes.checked && !radio_no.checked) {
-      console.log('yes')
+      input.style.display = "block"
     } else {
-      console.log('no')
       input.style.display = "none"
     }
 
     radio_yes.addEventListener('change', () => {
-      console.log('yes')
       input.style.display = "block"
     })
-
     radio_no.addEventListener('change', () => {
-      console.log('no')
       input.style.display = "none"
     })
 
