@@ -307,7 +307,8 @@
                             <dd class="flex align-center">
                               {%- if property.last contains '/uploads/' -%}
                                 <a href="{{ property.last }}" target="_blank">
-                                  {{ property.last | split: '/' | last }}
+                                  <!-- {{ property.last | split: '/' | last }} -->
+                                  {{ item.properties['Image Uploaded'] }}
                                 </a>
                               {%- else -%}
                                 {{ property.last }}
