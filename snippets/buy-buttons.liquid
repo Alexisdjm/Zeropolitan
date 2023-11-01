@@ -115,16 +115,17 @@
     let input = document.getElementById("customer_image");
 
     if (radio_yes.checked && !radio_no.checked) {
-      input.style.display = "block"
-    } else {
-      input.style.display = "none"
+      input.classList.remove('display-none');
+      input.classList.add('display-block');
     }
 
     radio_yes.addEventListener('change', () => {
-      input.style.display = "block"
+      input.classList.remove('display-none');
+      input.classList.add('display-block');
     })
     radio_no.addEventListener('change', () => {
-      input.style.display = "none"
+      input.classList.remove('display-bloc');
+      input.classList.add('display-none');
     })
 
   </script>
