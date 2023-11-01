@@ -5,3 +5,11 @@
 .align-center {
   align-items: center;
 }
+
+.display-none {
+  display: none;
+}
+
+.display-block {
+  display: block;
+}
