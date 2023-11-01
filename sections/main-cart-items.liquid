@@ -107,7 +107,7 @@
                                     <a href="{{ property.last }}" target="_blank">
                                       {{ property.last | split: '/' | last }}
                                     </a>
-                                    <img src="{{ property.last | split: '/' | last | img_url: "master" }}" alt="uploaded" loading="lazy">
+                                    <img src="{{ option.value | img_url: "master" }}" alt="uploaded" loading="lazy">
                                   {%- else -%}
                                     {{ property.last }}
                                   {%- endif -%}
