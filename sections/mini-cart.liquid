@@ -308,7 +308,7 @@
                               {%- if property.last contains '/uploads/' -%}
                                 <a href="{{ property.last }}" target="_blank">
                                   <!-- {{ property.last | split: '/' | last }} -->
-                                  {{ item.properties['Image Uploaded'].title }}
+                                  {{ item.properties['Image Uploaded'] }}
                                 </a>
                               {%- else -%}
                                 {{ property.last }}
