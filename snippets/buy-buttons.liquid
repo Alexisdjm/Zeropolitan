@@ -60,7 +60,7 @@
           </quantity-input>
         </div>
       {%- endif -%}
-      <p class="line-item-property__field"> 
+      <p class="line-item-property__field" id="customer_image"> 
         <label for="image_upload">Upload your own image to be engraved. <br>Attach Image</label>
         <input class="upload" id="image_upload" type="file" name="properties[Image Uploaded]"> 
       </p>
@@ -109,5 +109,17 @@
     </template>
   </pickup-availability>
   <script src="{{ 'pickup-availability.js' | asset_url }}" defer="defer"></script>
+  <script>
+    let radio_yes = document.querySelector('[id$="Engraved-0"]');
+    let radio_no = document.querySelector('[id$="Engraved-1"]');
+    let input = document.getElementById("#customer_image")
+
+    if ()
+
+    radio.addEventListener('change', () => {
+      
+    })
+
+  </script>
 {%- endif -%}
 {%- endif -%}
