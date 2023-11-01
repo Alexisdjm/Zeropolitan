@@ -304,7 +304,7 @@
                         {%- if property.last != blank and property_first_char != '_' -%}
                           <div class="product-option">
                             <dt>{{ property.first }}: </dt>
-                            <dd>
+                            <dd class="flex align-center">
                               {%- if property.last contains '/uploads/' -%}
                                 <a href="{{ property.last }}" target="_blank">
                                   {{ property.last | split: '/' | last }}
