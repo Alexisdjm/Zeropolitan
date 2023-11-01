@@ -17,3 +17,15 @@
 .gap-10 {
   gap: 10px;
 }
+
+.uploaded-img {
+  overflow: hidden;
+}
+
+.uploaded-img img {
+  transition: all 0.3s ease-in-out
+}
+
+.uploaded-img img:hover {
+  transform: scale(1.05)
+}
