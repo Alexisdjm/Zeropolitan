@@ -245,7 +245,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/8_d3c8d31f-ec4c-47a0-8d92-910df0bfebcf.jpg",
         "image_position": "center center",
-        "text_box_position": "top",
+        "text_box_position": "bottom",
         "text_alignment": "left",
         "image_ratio": "600px",
         "full_width": true,
