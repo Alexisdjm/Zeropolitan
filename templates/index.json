@@ -243,11 +243,11 @@
         "slide"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PhotoRoom_20231110_195707.jpg",
+        "image": "shopify:\/\/shop_images\/8_d3c8d31f-ec4c-47a0-8d92-910df0bfebcf.jpg",
         "image_position": "center center",
-        "text_box_position": "middle",
-        "text_alignment": "center",
-        "image_ratio": "550px",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "image_ratio": "600px",
         "full_width": true,
         "show_divider": true,
         "mobile_text_alignment": "left",
