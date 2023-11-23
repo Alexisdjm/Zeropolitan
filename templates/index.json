@@ -251,7 +251,7 @@
         "full_width": true,
         "show_divider": true,
         "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
-        "mobile_text_alignment": "left",
+        "mobile_text_alignment": "center",
         "mobile_image_ratio": "400px",
         "show_text_below": false,
         "colors_text": "#ffffff",
