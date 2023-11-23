@@ -248,7 +248,7 @@
         "text_box_position": "middle",
         "text_alignment": "center",
         "image_ratio": "100vh",
-        "full_width": true,
+        "full_width": false,
         "show_divider": true,
         "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
         "mobile_text_alignment": "center",
