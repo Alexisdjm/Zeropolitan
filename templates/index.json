@@ -247,7 +247,7 @@
         "image_position": "center center",
         "text_box_position": "bottom",
         "text_alignment": "left",
-        "image_ratio": "600px",
+        "image_ratio": "adapt",
         "full_width": true,
         "show_divider": true,
         "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
