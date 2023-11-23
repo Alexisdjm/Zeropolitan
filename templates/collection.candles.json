@@ -4,17 +4,17 @@
       "type": "main-collection-banner",
       "settings": {
         "heading_size": "h0",
-        "show_description": true,
+        "show_description": false,
         "show_image": true,
         "apply_overlay": false,
         "image_position": "center center",
         "image_ratio": "adapt",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "mobile_text_alignment": "center",
-        "mobile_image_ratio": "250px",
+        "mobile_image_ratio": "adapt",
         "show_text_below": false,
         "padding_top": 16,
-        "padding_bottom": 32
+        "padding_bottom": 16
       }
     },
     "subs": {
