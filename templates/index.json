@@ -247,7 +247,7 @@
         "image_position": "center center",
         "text_box_position": "middle",
         "text_alignment": "center",
-        "image_ratio": "adapt",
+        "image_ratio": "600px",
         "full_width": false,
         "show_divider": false,
         "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
@@ -1261,6 +1261,80 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "307c5520-b156-419b-8fa5-f52886ac98ed": {
+      "type": "reveal-banner",
+      "blocks": {
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reveal banner",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "video_button": "Video button label",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_description": "Describe the video"
+          }
+        },
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "BEST SELLER",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "<p>Experience the benefits of crystal deodorant while minimizing waste with our eco-friendly cork packaging. Embrace a greener way to stay fresh.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/products\/deodorant",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "colors_button_label": "#ffffff",
+            "colors_button_background": "#1a1b18",
+            "colors_text": "#212326",
+            "colors_background": "#faeaa1",
+            "gradient_background": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-heading-1",
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-subheading-1",
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1",
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aa_8182.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "show_text_below": false,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 20,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -1282,6 +1356,7 @@
     "image-with-text-overlay",
     "testimonials",
     "rich-text-1",
-    "scrolling-promotion"
+    "scrolling-promotion",
+    "307c5520-b156-419b-8fa5-f52886ac98ed"
   ]
 }
