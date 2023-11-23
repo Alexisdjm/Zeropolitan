@@ -245,9 +245,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/aa_8182.jpg",
         "image_position": "center center",
-        "text_box_position": "bottom",
-        "text_alignment": "left",
-        "image_ratio": "adapt",
+        "text_box_position": "middle",
+        "text_alignment": "center",
+        "image_ratio": "400px",
         "full_width": true,
         "show_divider": true,
         "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
