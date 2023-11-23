@@ -7,7 +7,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/5000.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/5000.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-center",
             "subheading": "WE DON´T LEAVE A TRACE",
