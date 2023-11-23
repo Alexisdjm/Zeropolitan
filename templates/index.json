@@ -213,34 +213,13 @@
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "video_description": "Describe the video"
           }
-        },
-        "slide": {
-          "type": "slide",
-          "settings": {
-            "heading": "OUR BEST SELLERS",
-            "heading_size": "h1",
-            "heading_tag": "h2",
-            "text": "<p>Indulge in the benefits of crystal deodorant with our innovative cork container. Experience long-lasting freshness without harming the environment.<\/p>",
-            "text_size": "typeset2",
-            "secondary_color": false,
-            "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/products\/deodorant",
-            "button_size": "medium",
-            "button_style_secondary": true,
-            "colors_button_label": "#ffffff",
-            "colors_button_background": "#1a1b18",
-            "colors_text": "#1a1b18",
-            "colors_background": "#f7eedd",
-            "gradient_background": ""
-          }
         }
       },
       "block_order": [
         "subheading",
         "heading",
         "text",
-        "buttons",
-        "slide"
+        "buttons"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aa_8182.jpg",
