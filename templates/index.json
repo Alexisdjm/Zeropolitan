@@ -173,73 +173,6 @@
         "padding_bottom": 36
       }
     },
-    "reveal-banner": {
-      "type": "reveal-banner",
-      "blocks": {
-        "subheading": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "subheading": "",
-            "subheading_size": "h5",
-            "secondary_color": false
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "buttons": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "video_button": "Play Video",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "video_description": "Describe the video"
-          }
-        }
-      },
-      "block_order": [
-        "subheading",
-        "heading",
-        "text",
-        "buttons"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/aa_8182.jpg",
-        "image_position": "center center",
-        "text_box_position": "middle",
-        "text_alignment": "center",
-        "image_ratio": "600px",
-        "full_width": false,
-        "show_divider": false,
-        "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "show_text_below": false,
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 20,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -1320,7 +1253,6 @@
     "slideshow",
     "rich-text-0",
     "91f4c9f6-5388-40e5-a422-0750072430bd",
-    "reveal-banner",
     "featured-collection",
     "guarantees",
     "tab-collage",
