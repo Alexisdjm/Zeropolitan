@@ -1,22 +1,5 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "settings": {
-        "heading_size": "h0",
-        "show_description": false,
-        "show_image": true,
-        "apply_overlay": false,
-        "image_position": "center center",
-        "image_ratio": "adapt",
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "show_text_below": false,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "subs": {
       "type": "main-collection-subs",
       "disabled": true,
@@ -85,6 +68,23 @@
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "heading_size": "h0",
+        "show_description": false,
+        "show_image": true,
+        "apply_overlay": false,
+        "image_position": "center center",
+        "image_ratio": "adapt",
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "show_text_below": false,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -224,9 +224,9 @@
     }
   },
   "order": [
-    "banner",
     "subs",
     "f080e8eb-e874-4d5b-bfe0-04f03841471c",
+    "banner",
     "product-grid",
     "8ce3b3da-51f8-4b59-8acc-e648e54125a0",
     "recently-viewed",
