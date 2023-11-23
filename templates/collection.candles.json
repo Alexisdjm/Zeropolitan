@@ -16,6 +16,23 @@
         "padding_bottom": 0
       }
     },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "heading_size": "h2",
+        "show_description": false,
+        "show_image": true,
+        "apply_overlay": false,
+        "image_position": "center center",
+        "image_ratio": "adapt",
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "show_text_below": false,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "f080e8eb-e874-4d5b-bfe0-04f03841471c": {
       "type": "rich-text",
       "blocks": {
@@ -28,15 +45,6 @@
             "heading_tag": "h2"
           }
         },
-        "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>PROMOTING A SUSTAINABLE FUTURE.<br\/>ZEROPOLITAN LEADS THE WAY TOWARDS ZERO WASTE.<\/h3>",
-            "text_size": "typeset2",
-            "secondary_color": false,
-            "highlight_phrases": ""
-          }
-        },
         "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-button-1": {
           "type": "button",
           "disabled": true,
@@ -46,12 +54,21 @@
             "button_size": "medium",
             "button_style_secondary": false
           }
+        },
+        "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>PROMOTING A SUSTAINABLE FUTURE.<br\/>ZEROPOLITAN LEADS THE WAY TOWARDS ZERO WASTE.<\/h3>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": ""
+          }
         }
       },
       "block_order": [
         "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-heading-1",
-        "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-text-1",
-        "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-button-1"
+        "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-button-1",
+        "template--20452966596894__f080e8eb-e874-4d5b-bfe0-04f03841471c-text-1"
       ],
       "settings": {
         "text_alignment": "left",
@@ -68,23 +85,6 @@
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "settings": {
-        "heading_size": "h2",
-        "show_description": false,
-        "show_image": true,
-        "apply_overlay": false,
-        "image_position": "center center",
-        "image_ratio": "adapt",
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "show_text_below": false,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -225,8 +225,8 @@
   },
   "order": [
     "subs",
-    "f080e8eb-e874-4d5b-bfe0-04f03841471c",
     "banner",
+    "f080e8eb-e874-4d5b-bfe0-04f03841471c",
     "product-grid",
     "8ce3b3da-51f8-4b59-8acc-e648e54125a0",
     "recently-viewed",
