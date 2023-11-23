@@ -252,7 +252,7 @@
         "show_divider": true,
         "image_mobile": "shopify:\/\/shop_images\/aa_8182.jpg",
         "mobile_text_alignment": "center",
-        "mobile_image_ratio": "400px",
+        "mobile_image_ratio": "adapt",
         "show_text_below": false,
         "colors_text": "#ffffff",
         "colors_overlay": "#000000",
