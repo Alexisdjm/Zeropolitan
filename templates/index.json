@@ -513,12 +513,20 @@
       "blocks": {
         "product-0": {
           "type": "product",
-          "disabled": true,
           "settings": {
             "product": "",
-            "color": "#ffffff",
-            "horizontal": 24,
-            "vertical": 23
+            "color": "#9ab6ea",
+            "horizontal": 20,
+            "vertical": 90
+          }
+        },
+        "04a32843-5fb8-43ec-9e7f-456905e10825": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color": "#000000",
+            "horizontal": 30,
+            "vertical": 40
           }
         },
         "product-1": {
@@ -560,6 +568,7 @@
       },
       "block_order": [
         "product-0",
+        "04a32843-5fb8-43ec-9e7f-456905e10825",
         "product-1",
         "product-2",
         "59e064b3-341f-47a4-b049-ee3cae4b338e",
