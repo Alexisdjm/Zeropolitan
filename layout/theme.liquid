@@ -42,7 +42,13 @@
     {%- endif -%}
 
     {% render 'meta-tags' %}
-
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5ST47GWJ');</script>
+    <!-- End Google Tag Manager -->
     <script src="{{ 'vendor-v4.js' | asset_url | split: '?' | first }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
@@ -90,6 +96,10 @@
     {%- if settings.price_superscript %} data-price-superscript{% endif -%}
     {%- if settings.button_corner_radius > 0 %} data-button-round{% endif -%}
   >
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ST47GWJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <a class="skip-to-content-link button button--small visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
