@@ -559,7 +559,7 @@
         "32c9cffb-31d1-43ea-b981-201fa307c0e4": {
           "type": "product",
           "settings": {
-            "product": "deodorant",
+            "product": "crystal-zero-waste-cork-deodorant",
             "color": "#9ab6ea",
             "horizontal": 93,
             "vertical": 54
@@ -1232,7 +1232,7 @@
             "text_size": "typeset2",
             "secondary_color": false,
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/products\/deodorant",
+            "button_link": "shopify:\/\/products\/crystal-zero-waste-cork-deodorant",
             "button_size": "medium",
             "button_style_secondary": false,
             "colors_button_label": "#ffffff",
