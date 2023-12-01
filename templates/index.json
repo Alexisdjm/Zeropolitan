@@ -176,7 +176,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "bamboo-toothbrush",
+        "collection": "personal-care",
         "products_to_show": 4,
         "show_view_all": true,
         "show_divider": false,
@@ -674,7 +674,7 @@
           "type": "button",
           "settings": {
             "button_label": "View products",
-            "button_link": "shopify:\/\/collections\/bamboo-toothbrush",
+            "button_link": "shopify:\/\/collections\/personal-care",
             "button_size": "medium",
             "button_style_secondary": false
           }
