@@ -744,7 +744,7 @@
           "type": "button",
           "settings": {
             "button_label": "view products",
-            "button_link": "shopify:\/\/collections\/candles",
+            "button_link": "shopify:\/\/collections\/soy-wax-candles",
             "button_size": "medium",
             "button_style_secondary": false
           }
