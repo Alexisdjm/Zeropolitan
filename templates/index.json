@@ -532,7 +532,7 @@
         "product-1": {
           "type": "product",
           "settings": {
-            "product": "toothbrushmedium4pack",
+            "product": "bamboo-toothbrush-4pack",
             "color": "#9ab6ea",
             "horizontal": 32,
             "vertical": 40
@@ -606,7 +606,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "product": "toothbrushmedium4pack",
+            "product": "bamboo-toothbrush-4pack",
             "enable_quick_view": true,
             "color": "#ffffff",
             "horizontal": 27,
