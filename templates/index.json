@@ -1216,10 +1216,10 @@
         "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "video_button": "Video button label",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "button_label": "Best Seller",
+            "button_link": "shopify:\/\/collections\/soy-wax-candles",
+            "video_button": "",
+            "video_url": "",
             "video_description": "Describe the video"
           }
         },
