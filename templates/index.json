@@ -132,6 +132,47 @@
         "padding_bottom": 60
       }
     },
+    "91f4c9f6-5388-40e5-a422-0750072430bd": {
+      "type": "image-comparison",
+      "blocks": {
+        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-11-16_at_11.48.20_pm.png",
+            "title": "",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        },
+        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-2": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-09-27_at_10.27.29_pm.png",
+            "title": "",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-1",
+        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-2"
+      ],
+      "settings": {
+        "layout": "horizontal",
+        "image_ratio": "650px",
+        "mobile_image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "colors_line": "#ecf70f",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "shop-the-look": {
       "type": "shop-the-look",
       "blocks": {
@@ -210,47 +251,6 @@
         "enable_quick_view": true,
         "enable_color_swatches": true,
         "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "91f4c9f6-5388-40e5-a422-0750072430bd": {
-      "type": "image-comparison",
-      "blocks": {
-        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-1": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-11-16_at_11.48.20_pm.png",
-            "title": "",
-            "title_size": "small",
-            "title_position": "start"
-          }
-        },
-        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-2": {
-          "type": "look",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-09-27_at_10.27.29_pm.png",
-            "title": "",
-            "title_size": "small",
-            "title_position": "start"
-          }
-        }
-      },
-      "block_order": [
-        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-1",
-        "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-2"
-      ],
-      "settings": {
-        "layout": "horizontal",
-        "image_ratio": "650px",
-        "mobile_image_ratio": "adapt",
-        "full_width": false,
-        "show_divider": false,
-        "heading": "",
-        "heading_size": "h2",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "colors_line": "#ecf70f",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1261,8 +1261,8 @@
   "order": [
     "slideshow",
     "rich-text-0",
-    "shop-the-look",
     "91f4c9f6-5388-40e5-a422-0750072430bd",
+    "shop-the-look",
     "featured-collection",
     "guarantees",
     "tab-collage",
