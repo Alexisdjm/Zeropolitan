@@ -747,6 +747,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/7.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
