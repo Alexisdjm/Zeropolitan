@@ -1197,22 +1197,6 @@
     "307c5520-b156-419b-8fa5-f52886ac98ed": {
       "type": "reveal-banner",
       "blocks": {
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Reveal banner",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-subheading-1": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "h5",
-            "secondary_color": false
-          }
-        },
         "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1": {
           "type": "buttons",
           "settings": {
@@ -1220,7 +1204,7 @@
             "button_link": "shopify:\/\/collections\/soy-wax-candles",
             "video_button": "",
             "video_url": "",
-            "video_description": "Describe the video"
+            "video_description": ""
           }
         },
         "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1": {
@@ -1245,8 +1229,6 @@
         }
       },
       "block_order": [
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-heading-1",
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-subheading-1",
         "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1",
         "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1"
       ],
