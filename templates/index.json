@@ -220,6 +220,15 @@
             "horizontal": 93,
             "vertical": 54
           }
+        },
+        "c0cc21bb-0ce0-4b9d-9570-1c0897323210": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "color": "#87adf5",
+            "horizontal": 20,
+            "vertical": 74
+          }
         }
       },
       "block_order": [
@@ -227,7 +236,8 @@
         "product-1",
         "product-2",
         "59e064b3-341f-47a4-b049-ee3cae4b338e",
-        "32c9cffb-31d1-43ea-b981-201fa307c0e4"
+        "32c9cffb-31d1-43ea-b981-201fa307c0e4",
+        "c0cc21bb-0ce0-4b9d-9570-1c0897323210"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aa_8369.jpg",
