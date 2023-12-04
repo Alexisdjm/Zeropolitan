@@ -132,6 +132,88 @@
         "padding_bottom": 60
       }
     },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product-0": {
+          "type": "product",
+          "settings": {
+            "product": "dental-floss-refill",
+            "color": "#9ab6ea",
+            "horizontal": 20,
+            "vertical": 90
+          }
+        },
+        "product-1": {
+          "type": "product",
+          "settings": {
+            "product": "bamboo-toothbrush-4pack",
+            "color": "#9ab6ea",
+            "horizontal": 32,
+            "vertical": 40
+          }
+        },
+        "product-2": {
+          "type": "product",
+          "settings": {
+            "product": "eco-friendly-dental-floss",
+            "color": "#9ab6ea",
+            "horizontal": 50,
+            "vertical": 92
+          }
+        },
+        "59e064b3-341f-47a4-b049-ee3cae4b338e": {
+          "type": "product",
+          "settings": {
+            "product": "bamboo-toothbrush",
+            "color": "#9ab6ea",
+            "horizontal": 66,
+            "vertical": 40
+          }
+        },
+        "32c9cffb-31d1-43ea-b981-201fa307c0e4": {
+          "type": "product",
+          "settings": {
+            "product": "crystal-zero-waste-cork-deodorant",
+            "color": "#9ab6ea",
+            "horizontal": 93,
+            "vertical": 54
+          }
+        }
+      },
+      "block_order": [
+        "product-0",
+        "product-1",
+        "product-2",
+        "59e064b3-341f-47a4-b049-ee3cae4b338e",
+        "32c9cffb-31d1-43ea-b981-201fa307c0e4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aa_8369.jpg",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Zeropolitan products",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "91f4c9f6-5388-40e5-a422-0750072430bd": {
       "type": "image-comparison",
       "blocks": {
@@ -504,88 +586,6 @@
         "colors_text": "#1a1b18",
         "colors_background": "#f9f9f9",
         "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "shop-the-look": {
-      "type": "shop-the-look",
-      "blocks": {
-        "product-0": {
-          "type": "product",
-          "settings": {
-            "product": "dental-floss-refill",
-            "color": "#9ab6ea",
-            "horizontal": 20,
-            "vertical": 90
-          }
-        },
-        "product-1": {
-          "type": "product",
-          "settings": {
-            "product": "bamboo-toothbrush-4pack",
-            "color": "#9ab6ea",
-            "horizontal": 32,
-            "vertical": 40
-          }
-        },
-        "product-2": {
-          "type": "product",
-          "settings": {
-            "product": "eco-friendly-dental-floss",
-            "color": "#9ab6ea",
-            "horizontal": 50,
-            "vertical": 92
-          }
-        },
-        "59e064b3-341f-47a4-b049-ee3cae4b338e": {
-          "type": "product",
-          "settings": {
-            "product": "bamboo-toothbrush",
-            "color": "#9ab6ea",
-            "horizontal": 66,
-            "vertical": 40
-          }
-        },
-        "32c9cffb-31d1-43ea-b981-201fa307c0e4": {
-          "type": "product",
-          "settings": {
-            "product": "crystal-zero-waste-cork-deodorant",
-            "color": "#9ab6ea",
-            "horizontal": 93,
-            "vertical": 54
-          }
-        }
-      },
-      "block_order": [
-        "product-0",
-        "product-1",
-        "product-2",
-        "59e064b3-341f-47a4-b049-ee3cae4b338e",
-        "32c9cffb-31d1-43ea-b981-201fa307c0e4"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/aa_8369.jpg",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "heading": "Zeropolitan products",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1261,13 +1261,13 @@
   "order": [
     "slideshow",
     "rich-text-0",
+    "shop-the-look",
     "91f4c9f6-5388-40e5-a422-0750072430bd",
     "featured-collection",
     "guarantees",
     "tab-collage",
     "video-hero",
     "countdown-timer",
-    "shop-the-look",
     "lookbook",
     "image-with-text-0",
     "image-with-text-1",
