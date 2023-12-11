@@ -309,6 +309,62 @@
         "padding_bottom": 36
       }
     },
+    "307c5520-b156-419b-8fa5-f52886ac98ed": {
+      "type": "reveal-banner",
+      "blocks": {
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Best Seller",
+            "button_link": "shopify:\/\/products\/crystal-zero-waste-cork-deodorant",
+            "video_button": "",
+            "video_url": "",
+            "video_description": ""
+          }
+        },
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "BEST SELLER",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "<p>Experience the benefits of crystal deodorant while minimizing waste with our eco-friendly cork packaging. Embrace a greener way to stay fresh.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/products\/crystal-zero-waste-cork-deodorant",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "colors_button_label": "#ffffff",
+            "colors_button_background": "#1a1b18",
+            "colors_text": "#212326",
+            "colors_background": "#f7eedd",
+            "gradient_background": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1",
+        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aa_8182.jpg",
+        "image_position": "bottom center",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "700px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "show_text_below": false,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 20,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -407,107 +463,6 @@
         "colors_icon": "#005830",
         "colors_text": "#ecf70f",
         "colors_background": "#005830",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "tab-collage": {
-      "type": "tab-collage",
-      "blocks": {
-        "image-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/23_1.jpg",
-            "image_position": "center center",
-            "heading": "Environmentally friendly",
-            "description": "<h3>This refers to products, practices, or actions that have a minimal negative impact on the environment. They are designed or conducted in a way that reduces harm to ecosystems and conserves natural resources.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_1.jpg",
-            "image_position": "center center",
-            "heading": "Sustainable",
-            "description": "<h3>Sustainability involves meeting present needs without compromising the ability of future generations to meet their own needs. It refers to practices that balance social, economic, and environmental considerations for long-term well-being.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_1.jpg",
-            "image_position": "center center",
-            "heading": "Recyclable",
-            "description": "<h3>Recyclable items are those that can be collected, processed, and turned into new products after they've been used. This reduces the need for raw materials and minimizes waste, helping to conserve resources and reduce pollution.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24_1.jpg",
-            "image_position": "center center",
-            "heading": "Reusable",
-            "description": "<h3>Reusable items are designed to be used multiple times, reducing the need for single-use products. This helps cut down on waste generation and the consumption of resources, contributing to a more sustainable lifestyle.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "105f793d-02d3-48c7-8dfc-8a190f5a1af5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8_d3c8d31f-ec4c-47a0-8d92-910df0bfebcf.jpg",
-            "image_position": "center center",
-            "heading": "Upcycle",
-            "description": "<p>Upcycling is a process of transforming waste materials, useless or unwanted products, or by-products into new materials or products of higher quality, value, or environmental significance. Unlike recycling, which breaks down materials into their raw components to create new products, upcycling aims to use existing items creatively and repurpose them without breaking them down entirely.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "image-0",
-        "image-1",
-        "image-2",
-        "image-3",
-        "105f793d-02d3-48c7-8dfc-8a190f5a1af5"
-      ],
-      "settings": {
-        "layout": "text_first",
-        "text_box_position": "top",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "make_collapsible_rows": true,
-        "full_width": true,
-        "show_divider": false,
-        "heading": "PROMOTING POSITIVE CYCLES",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "mobile_layout": "text_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "200px",
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#1a1b18",
-        "colors_border": "#a1a1a1",
-        "colors_background": "#f7eedd",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -821,6 +776,107 @@
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "tab-collage": {
+      "type": "tab-collage",
+      "blocks": {
+        "image-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23_1.jpg",
+            "image_position": "center center",
+            "heading": "Environmentally friendly",
+            "description": "<h3>This refers to products, practices, or actions that have a minimal negative impact on the environment. They are designed or conducted in a way that reduces harm to ecosystems and conserves natural resources.<\/h3>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_1.jpg",
+            "image_position": "center center",
+            "heading": "Sustainable",
+            "description": "<h3>Sustainability involves meeting present needs without compromising the ability of future generations to meet their own needs. It refers to practices that balance social, economic, and environmental considerations for long-term well-being.<\/h3>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_1.jpg",
+            "image_position": "center center",
+            "heading": "Recyclable",
+            "description": "<h3>Recyclable items are those that can be collected, processed, and turned into new products after they've been used. This reduces the need for raw materials and minimizes waste, helping to conserve resources and reduce pollution.<\/h3>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24_1.jpg",
+            "image_position": "center center",
+            "heading": "Reusable",
+            "description": "<h3>Reusable items are designed to be used multiple times, reducing the need for single-use products. This helps cut down on waste generation and the consumption of resources, contributing to a more sustainable lifestyle.<\/h3>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "105f793d-02d3-48c7-8dfc-8a190f5a1af5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_d3c8d31f-ec4c-47a0-8d92-910df0bfebcf.jpg",
+            "image_position": "center center",
+            "heading": "Upcycle",
+            "description": "<p>Upcycling is a process of transforming waste materials, useless or unwanted products, or by-products into new materials or products of higher quality, value, or environmental significance. Unlike recycling, which breaks down materials into their raw components to create new products, upcycling aims to use existing items creatively and repurpose them without breaking them down entirely.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "image-0",
+        "image-1",
+        "image-2",
+        "image-3",
+        "105f793d-02d3-48c7-8dfc-8a190f5a1af5"
+      ],
+      "settings": {
+        "layout": "text_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "make_collapsible_rows": true,
+        "full_width": true,
+        "show_divider": false,
+        "heading": "PROMOTING POSITIVE CYCLES",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "200px",
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#1a1b18",
+        "colors_border": "#a1a1a1",
+        "colors_background": "#f7eedd",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -1187,62 +1243,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "307c5520-b156-419b-8fa5-f52886ac98ed": {
-      "type": "reveal-banner",
-      "blocks": {
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label": "Best Seller",
-            "button_link": "shopify:\/\/products\/crystal-zero-waste-cork-deodorant",
-            "video_button": "",
-            "video_url": "",
-            "video_description": ""
-          }
-        },
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "BEST SELLER",
-            "heading_size": "h1",
-            "heading_tag": "h2",
-            "text": "<p>Experience the benefits of crystal deodorant while minimizing waste with our eco-friendly cork packaging. Embrace a greener way to stay fresh.<\/p>",
-            "text_size": "typeset2",
-            "secondary_color": false,
-            "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/products\/crystal-zero-waste-cork-deodorant",
-            "button_size": "medium",
-            "button_style_secondary": false,
-            "colors_button_label": "#ffffff",
-            "colors_button_background": "#1a1b18",
-            "colors_text": "#212326",
-            "colors_background": "#f7eedd",
-            "gradient_background": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-buttons-1",
-        "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/aa_8182.jpg",
-        "image_position": "bottom center",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "700px",
-        "full_width": true,
-        "show_divider": false,
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "auto",
-        "show_text_below": false,
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 20,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -1251,19 +1251,19 @@
     "rich-text-1",
     "91f4c9f6-5388-40e5-a422-0750072430bd",
     "shop-the-look",
+    "307c5520-b156-419b-8fa5-f52886ac98ed",
     "featured-collection",
     "guarantees",
-    "tab-collage",
     "video-hero",
     "countdown-timer",
     "lookbook",
     "image-with-text-0",
     "image-with-text-1",
+    "tab-collage",
     "image-comparison",
     "featured-product",
     "image-with-text-overlay",
     "testimonials",
-    "scrolling-promotion",
-    "307c5520-b156-419b-8fa5-f52886ac98ed"
+    "scrolling-promotion"
   ]
 }
