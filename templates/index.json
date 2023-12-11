@@ -1078,23 +1078,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "Author's name"
-          }
-        },
-        "testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "text": "<p>Very nice candle. Smells amazing and the fragrance really makes most of my room smell nice. Plus that crackling sound of the wood wick is relaxing<\/p>",
             "author": "Author's name"
           }
         },
@@ -1117,8 +1101,6 @@
       },
       "block_order": [
         "testimonial-0",
-        "testimonial-1",
-        "testimonial-2",
         "testimonial-3",
         "testimonial-4"
       ],
