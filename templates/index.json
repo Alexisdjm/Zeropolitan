@@ -1228,10 +1228,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aa_8182.jpg",
-        "image_position": "center center",
+        "image_position": "bottom center",
         "text_box_position": "middle",
         "text_alignment": "left",
-        "image_ratio": "650px",
+        "image_ratio": "700px",
         "full_width": true,
         "show_divider": false,
         "mobile_text_alignment": "center",
