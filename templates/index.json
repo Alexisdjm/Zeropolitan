@@ -90,6 +90,48 @@
         "padding_bottom": 36
       }
     },
+    "6af703db-d42f-4798-abf8-fc70c9bb54cf": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you ready to <strong>shop zero waste<\/strong> towards a sustainable and eco-friendly lifestyle? At Zeropolitan, we've got you covered. We can help you with zero-waste living. Our products can support your environmental commitment and offer various options.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-heading-1",
+        "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-text-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich-text-0": {
       "type": "rich-text",
       "blocks": {
@@ -104,7 +146,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>A Zeropolitan is a citizen who is committed to reducing their environmental impact by using products that produce zero waste. This often involves using reusable or recycled items, and avoiding single-use products. Zeropolitans strive to minimize the amount of trash they generate and actively look for ways to repurpose or recycle materials. They are conscious about their consumption and actively seek to live a low-waste lifestyle.<\/h3>",
+            "text": "<h3>A Zeropolitan is a citizen who is committed to reducing their environmental impact by using products that produce zero waste. This often involves using reusable or recycled items, and avoiding single-use products. Zeropolitans strive to minimize the amount of trash they generate and actively look for ways to repurpose or recycle materials. They are conscious about their consumption and actively seek to live a low-waste lifestyle.<\/h3><h3><\/h3><p>At Zeropolitan, we understand the importance of these principles, so we offer a curated selection of <strong>zero-waste products online <\/strong>for Zeropolitans like you. Our <strong>eco-friendly online store<\/strong> is dedicated to helping you embrace sustainability in every aspect of your life. Join us in the journey towards a greener, brighter future.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "highlight text;stand out"
@@ -614,6 +656,168 @@
         "padding_bottom": 36
       }
     },
+    "c2821a28-6484-495c-ba6f-7be6788d3ed7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21417928622366__c2821a28-6484-495c-ba6f-7be6788d3ed7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zero Waste Products for Every Aspect of Your Life",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--21417928622366__c2821a28-6484-495c-ba6f-7be6788d3ed7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Zeropolitan<\/strong> offers a diverse range of eco-friendly products, each tailored to promote sustainable living. Our catalogue caters to every aspect of your daily routine, from bamboo toothbrushes to soy wax candles. Imagine starting your day with our Bamboo Toothbrush - 4 Pack, brushing your teeth with a clear conscience, knowing you're reducing plastic waste. At night, unwind with the soothing ambience of our Bamboo Candle - Vanilla Caramel, all while embracing a low-waste lifestyle.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": ""
+          }
+        },
+        "6f898212-32fa-4565-b3cb-fed367f5cf3a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eco-Friendly Online Store - Your One-Stop Shop for Sustainability",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c0287255-7ae2-4499-a826-919dc73c3194": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As an eco-conscious consumer, you're making choices that matter. Our mission is to make those choices accessible and convenient. When you <strong>shop zero waste<\/strong> at <strong>Zeropolitan<\/strong>, you're not just buying products but investing in a sustainable future. Our commitment to promoting positive cycles of change through environmentally friendly, sustainable, recyclable, and reusable products is unwavering. Trust us to provide you with top-notch options for your zero-waste lifestyle.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21417928622366__c2821a28-6484-495c-ba6f-7be6788d3ed7-heading-1",
+        "template--21417928622366__c2821a28-6484-495c-ba6f-7be6788d3ed7-text-1",
+        "6f898212-32fa-4565-b3cb-fed367f5cf3a",
+        "c0287255-7ae2-4499-a826-919dc73c3194"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "tab-collage": {
+      "type": "tab-collage",
+      "blocks": {
+        "image-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23_1.jpg",
+            "image_position": "center center",
+            "heading": "Environmentally friendly",
+            "description": "<p>This refers to products, practices, or actions that have a minimal negative impact on the environment. They are designed or conducted in a way that reduces harm to ecosystems and conserves natural resources.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_1.jpg",
+            "image_position": "center center",
+            "heading": "Sustainable",
+            "description": "<h3>Sustainability involves meeting present needs without compromising the ability of future generations to meet their own needs. It refers to practices that balance social, economic, and environmental considerations for long-term well-being.<\/h3>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_1.jpg",
+            "image_position": "center center",
+            "heading": "Recyclable",
+            "description": "<p>Recyclable items are those that can be collected, processed, and turned into new products after they've been used. This reduces the need for raw materials and minimizes waste, helping to conserve resources and reduce pollution.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24_1.jpg",
+            "image_position": "center center",
+            "heading": "Reusable",
+            "description": "<p>Reusable items are designed to be used multiple times, reducing the need for single-use products. It helps reduce waste generation and resource consumption, contributing to a more sustainable lifestyle.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": true
+          }
+        },
+        "105f793d-02d3-48c7-8dfc-8a190f5a1af5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_d3c8d31f-ec4c-47a0-8d92-910df0bfebcf.jpg",
+            "image_position": "center center",
+            "heading": "Upcycle",
+            "description": "<p>Upcycling is the creative process of transforming discarded materials into new and valuable products, further reducing waste and conserving resources. At <strong>Zeropolitan<\/strong>, we're passionate about upcycling, and you'll find ingenious upcycled items in our <strong>eco-friendly online store<\/strong> collection that showcase the beauty of sustainable living.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "image-0",
+        "image-1",
+        "image-2",
+        "image-3",
+        "105f793d-02d3-48c7-8dfc-8a190f5a1af5"
+      ],
+      "settings": {
+        "layout": "text_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "make_collapsible_rows": true,
+        "full_width": true,
+        "show_divider": false,
+        "heading": "PROMOTING POSITIVE CYCLES",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "200px",
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#1a1b18",
+        "colors_border": "#a1a1a1",
+        "colors_background": "#f7eedd",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text-0": {
       "type": "image-with-text",
       "blocks": {
@@ -628,7 +832,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Personal Care Collection",
+            "heading": "Personal Care - Caring for Yourself and the Planet",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -636,7 +840,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Our personal care products prioritize environmental sustainability, allowing you to care for yourself while also caring for the planet.<\/p>",
+            "text": "<p>Our personal care products prioritise environmental sustainability, allowing you to care for yourself while also caring for the planet. We've harnessed sustainability's power to provide crystal clear choices. Explore our Personal Care collection and discover the benefits of our Crystal Zero Waste Cork Deodorant. This best-seller comes in eco-friendly cork packaging, offering a greener way to stay fresh. Embrace <strong>zero-waste personal care<\/strong> that's in harmony with the planet.<\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -698,7 +902,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Soy Wax Candle Collection",
+            "heading": "Candles - Illuminate Your Space Sustainably",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -706,7 +910,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Candles made with conscious materials to ambient your home and office space.<\/p>",
+            "text": "<p>Our candles are made with conscious materials to ambient your home and office space. They're symbols of responsible living. <\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -719,13 +923,22 @@
             "button_size": "medium",
             "button_style_secondary": false
           }
+        },
+        "b1cf64aa-ee2f-4648-9540-a0f780eeeb39": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us at <strong>Zeropolitan<\/strong> in harnessing the power of sustainability. Together, we can create a world where every choice counts, and every product you use contributes to a healthier planet. Explore our collections and be part of the solution. <strong>Shop zero waste<\/strong>, live sustainably, and promote positive cycles of change with us today.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
         }
       },
       "block_order": [
         "subheading",
         "heading",
         "text",
-        "button"
+        "button",
+        "b1cf64aa-ee2f-4648-9540-a0f780eeeb39"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/7.jpg",
@@ -748,107 +961,6 @@
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "tab-collage": {
-      "type": "tab-collage",
-      "blocks": {
-        "image-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/23_1.jpg",
-            "image_position": "center center",
-            "heading": "Environmentally friendly",
-            "description": "<h3>This refers to products, practices, or actions that have a minimal negative impact on the environment. They are designed or conducted in a way that reduces harm to ecosystems and conserves natural resources.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_1.jpg",
-            "image_position": "center center",
-            "heading": "Sustainable",
-            "description": "<h3>Sustainability involves meeting present needs without compromising the ability of future generations to meet their own needs. It refers to practices that balance social, economic, and environmental considerations for long-term well-being.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_1.jpg",
-            "image_position": "center center",
-            "heading": "Recyclable",
-            "description": "<h3>Recyclable items are those that can be collected, processed, and turned into new products after they've been used. This reduces the need for raw materials and minimizes waste, helping to conserve resources and reduce pollution.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24_1.jpg",
-            "image_position": "center center",
-            "heading": "Reusable",
-            "description": "<h3>Reusable items are designed to be used multiple times, reducing the need for single-use products. This helps cut down on waste generation and the consumption of resources, contributing to a more sustainable lifestyle.<\/h3>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "small",
-            "button_style_secondary": true
-          }
-        },
-        "105f793d-02d3-48c7-8dfc-8a190f5a1af5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8_d3c8d31f-ec4c-47a0-8d92-910df0bfebcf.jpg",
-            "image_position": "center center",
-            "heading": "Upcycle",
-            "description": "<p>Upcycling is a process of transforming waste materials, useless or unwanted products, or by-products into new materials or products of higher quality, value, or environmental significance. Unlike recycling, which breaks down materials into their raw components to create new products, upcycling aims to use existing items creatively and repurpose them without breaking them down entirely.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "image-0",
-        "image-1",
-        "image-2",
-        "image-3",
-        "105f793d-02d3-48c7-8dfc-8a190f5a1af5"
-      ],
-      "settings": {
-        "layout": "text_first",
-        "text_box_position": "top",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "make_collapsible_rows": true,
-        "full_width": true,
-        "show_divider": false,
-        "heading": "PROMOTING POSITIVE CYCLES",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "mobile_layout": "text_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "200px",
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#1a1b18",
-        "colors_border": "#a1a1a1",
-        "colors_background": "#f7eedd",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -1219,6 +1331,7 @@
   },
   "order": [
     "slideshow",
+    "6af703db-d42f-4798-abf8-fc70c9bb54cf",
     "rich-text-0",
     "rich-text-1",
     "91f4c9f6-5388-40e5-a422-0750072430bd",
@@ -1228,9 +1341,10 @@
     "video-hero",
     "countdown-timer",
     "lookbook",
+    "c2821a28-6484-495c-ba6f-7be6788d3ed7",
+    "tab-collage",
     "image-with-text-0",
     "image-with-text-1",
-    "tab-collage",
     "image-comparison",
     "featured-product",
     "image-with-text-overlay",
