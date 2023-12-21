@@ -1067,7 +1067,9 @@
       </div>
     </animate-sticky>
   {%- endif -%}
-
+{% if product.metafields.custom.description != blank %}
+  {{ product.metafields.custom.description }}
+{% endif %}
 
 </section>
 
