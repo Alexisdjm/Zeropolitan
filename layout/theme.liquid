@@ -200,5 +200,101 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {%- if linklists.gift-wrapping.links != blank and linklists.gift-wrapping.links.first.type == 'product_link' -%}
       <script src="{{ 'gift-wrapping.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+<style>
+      :root {
+        --fp-border-color: black;
+        --fp-faq-margins: 5px;
+        --fp-hover-color: rgba(0, 0, 0, 0.05);
+        --fp-open-character: "+";
+        --fp-closed-character: "-";
+      }
+     .firstpage-custom-collection {
+	 position: relative;
+         padding: 50px 20px
+
+      }
+      .firstpage-custom-collection summary {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        cursor: pointer;
+
+        border-top: 1px solid var(--fp-border-color);
+
+        padding: 15px var(--fp-faq-margins);
+        box-sizing: border-box;
+      }
+
+      .firstpage-custom-collection summary>* {
+        margin: 0;
+      }
+
+      .firstpage-custom-collection .answer {
+        margin: 0 var(--fp-faq-margins);
+      }
+
+      .firstpage-custom-collection summary::after {
+        content:  var(--fp-open-character);
+        margin-right: 15px;
+        display: block;
+      }
+
+      .firstpage-custom-collection summary:hover {
+        background: var(--fp-hover-color);
+      }
+
+      .firstpage-custom-collection details[open] summary::after {
+        content: var(--fp-closed-character);
+      }
+
+      .firstpage-custom-collection details summary::-webkit-details-marker {
+        display: none;
+      }
+
+      .firstpage-custom-collection [type="checkbox"] {
+        display: none;
+      }
+
+      .firstpage-custom-collection .content {
+        margin-top: 30px;
+      }
+
+      .firstpage-custom-collection label {
+        display: block;
+        cursor: pointer;
+      }
+
+      .firstpage-custom-collection label:before {
+        position: absolute;
+      }
+
+      .firstpage-custom-collection input[type="checkbox"]~div {
+        width: 100%;
+        overflow: hidden;
+        max-height: 0;
+      }
+
+      .firstpage-custom-collection [type="checkbox"]:checked~div {
+        max-height: 9999px;
+      }
+
+     /*Edit this to make it appear at the bottom */
+      .firstpage-custom-collection [type="checkbox"]:checked+label {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+       }
+
+      .firstpage-custom-collection label:before {
+        content: 'Read More';
+        text-decoration: underline;
+      }
+
+      .firstpage-custom-collection [type="checkbox"]:checked+label:before {
+        content: 'Read Less';
+      }
+    </style>    
   </body>
 </html>
