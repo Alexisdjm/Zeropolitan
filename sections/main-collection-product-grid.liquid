@@ -160,7 +160,11 @@
     </div>
     {%- endpaginate -%}
   </div>
-  <p>test</p>
+
+  {% if collection.metafields.custom.description != blank %}}
+        {{ collection.metafields.custom.description }}
+  {% endif %}
+  
 </div>
 
 {% schema %}
