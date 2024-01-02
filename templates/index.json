@@ -14,7 +14,7 @@
             "subheading_size": "h5",
             "heading": "WE MAKE A DIFFERENCE",
             "heading_size": "h2",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text": "",
             "text_size": "typeset2",
             "button_label": "",
@@ -96,9 +96,9 @@
         "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1",
-            "heading_tag": "h2"
+            "heading": "Zeropolitan",
+            "heading_size": "h2",
+            "heading_tag": "h1"
           }
         },
         "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-text-1": {
@@ -116,8 +116,8 @@
         "template--21417928622366__6af703db-d42f-4798-abf8-fc70c9bb54cf-text-1"
       ],
       "settings": {
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
         "horizontal_content": false,
         "narrow": false,
         "show_divider": false,
@@ -146,7 +146,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>A Zeropolitan is a citizen who is committed to reducing their environmental impact by using products that produce zero waste. This often involves using reusable or recycled items, and avoiding single-use products. Zeropolitans strive to minimize the amount of trash they generate and actively look for ways to repurpose or recycle materials. They are conscious about their consumption and actively seek to live a low-waste lifestyle.<\/h3><h3><\/h3><p>At Zeropolitan, we understand the importance of these principles, so we offer a curated selection of <strong>zero-waste products online <\/strong>for Zeropolitans like you. Our <strong>eco-friendly online store<\/strong> is dedicated to helping you embrace sustainability in every aspect of your life. Join us in the journey towards a greener, brighter future.<\/p>",
+            "text": "<p><strong>A Zeropolitan is a citizen who is committed to reducing their environmental impact by using products that produce zero waste. This often involves using reusable or recycled items, and avoiding single-use products. Zeropolitans strive to minimize the amount of trash they generate and actively look for ways to repurpose or recycle materials. They are conscious about their consumption and actively seek to live a low-waste lifestyle.<\/strong><\/p><p><\/p><p>At Zeropolitan, we understand the importance of these principles, so we offer a curated selection of <strong>zero-waste products online <\/strong>for Zeropolitans like you. Our <strong>eco-friendly online store<\/strong> is dedicated to helping you embrace sustainability in every aspect of your life. Join us in the journey towards a greener, brighter future.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "highlight text;stand out"
@@ -190,8 +190,8 @@
         "8add5f32-4dc7-4165-a066-3bc049985c79": {
           "type": "text",
           "settings": {
-            "text": "<h1>BEFORE AND AFTER ZEROPOLITAN<\/h1>",
-            "text_size": "typeset2",
+            "text": "<h2>BEFORE AND AFTER ZEROPOLITAN<\/h2>",
+            "text_size": "typeset3",
             "secondary_color": false,
             "highlight_phrases": ""
           }
