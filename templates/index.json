@@ -6,8 +6,8 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5000.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/5000.jpg",
+            "image": "shopify:\/\/shop_images\/Products_Zeropolitan_Bamboo_Candle_Dental_floss_refill_toothbrush_crystal_zero_waste_cork_deodorant.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Products_Zeropolitan_Bambook_Candle_Dental_floss_refill_toothbrush_crystal_zero_waste_cork_deodorant.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-center",
             "subheading": "Shop Zero-Waste With Zeropolitan: WE DON´T LEAVE A",
@@ -224,7 +224,6 @@
         "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-11-16_at_11.48.20_pm.png",
             "title": "",
             "title_size": "small",
             "title_position": "start"
@@ -233,7 +232,6 @@
         "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-2": {
           "type": "look",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-09-27_at_10.27.29_pm.png",
             "title": "",
             "title_size": "small",
             "title_position": "start"
@@ -326,7 +324,6 @@
         "c0cc21bb-0ce0-4b9d-9570-1c0897323210"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/aa_8369.jpg",
         "layout": "image_first",
         "text_box_position": "middle",
         "text_alignment": "left",
@@ -390,7 +387,6 @@
         "template--21417928622366__307c5520-b156-419b-8fa5-f52886ac98ed-slide-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/aa_8182.jpg",
         "image_position": "bottom center",
         "text_box_position": "middle",
         "text_alignment": "left",
@@ -723,7 +719,6 @@
         "image-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23_1.jpg",
             "image_position": "center center",
             "heading": "Environmentally friendly",
             "description": "<p>This refers to products, practices, or actions that have a minimal negative impact on the environment. They are designed or conducted in a way that reduces harm to ecosystems and conserves natural resources.<\/p>",
@@ -941,7 +936,6 @@
         "b1cf64aa-ee2f-4648-9540-a0f780eeeb39"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/7.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
