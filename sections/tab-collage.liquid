@@ -54,7 +54,7 @@
                     -%}
 
                   {%- when 'product' -%}
-                    <p data-block-id="{{ block.id }}" class="tab-collage__heading{% if forloop.first %} is-active{% endif %} h2">
+                    <h3 data-block-id="{{ block.id }}" class="tab-collage__heading{% if forloop.first %} is-active{% endif %} h2">
                       {%- liquid
                         if block.settings.heading != blank
                           echo block.settings.heading | escape
@@ -68,7 +68,7 @@
                           render 'icon', icon: 'caret'
                         endif
                       -%}
-                    </p>
+                    </h3>
                     {%- liquid
                       if section.settings.make_collapsible_rows
                         assign card_product = block.settings.product
