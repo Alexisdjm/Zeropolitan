@@ -139,6 +139,45 @@
   // Atualize o breadcrumb quando a URL é alterada (navegação)
   window.addEventListener('popstate', updateBreadcrumb);
 </script>
+
+      <script>
+    // Dados dos URLs fornecidos
+    const urls = [
+      {
+        url: "https://www.zeropolitan.com.au/collections/vendors?q=zeropolitanau",
+        title: "Zero Waste Eco-Care: Recyclable, Reusable Products | Zeropolitanau",
+        description: "Explore our zero-waste collection: bamboo toothbrushes, dental floss, and more eco-conscious products. Shop now for sustainable choices!"
+      },
+      {
+        url: "https://www.zeropolitan.com.au/collections/vendors?q=zeropolitan",
+        title: "Zero Waste Eco-Care: Bamboo Candles & Crystal Deodorants | Zeropolitan",
+        description: "Discover eco-conscious choices: bamboo candles, crystal deodorant, and more sustainable products. Embrace zero waste living today!"
+      }
+    ];
+
+    // Função para atualizar meta tags com base na URL atual
+    function updateMetaTags() {
+      const currentUrl = window.location.href;
+      const matchedUrl = urls.find(item => currentUrl.includes(item.url));
+
+      if (matchedUrl) {
+        document.title = matchedUrl.title;
+
+        const existingMetaDescription = document.querySelector('meta[name="description"]');
+        if (existingMetaDescription) {
+          existingMetaDescription.remove(); // Remove a meta descrição existente
+        }
+
+        const newMetaDescription = document.createElement('meta');
+        newMetaDescription.setAttribute('name', 'description');
+        newMetaDescription.setAttribute('content', matchedUrl.description);
+        document.head.appendChild(newMetaDescription); // Adiciona a nova meta descrição
+      }
+    }
+
+    // Chama a função para atualizar as tags quando a página carregar
+    window.onload = updateMetaTags;
+  </script>
     
   </head>
 
