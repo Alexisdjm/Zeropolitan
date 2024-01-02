@@ -224,6 +224,8 @@
         "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-1": {
           "type": "look",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Bamboo_Toothbrush.png",
+            "image_mobile": "shopify:\/\/shop_images\/Bamboo_Toothbrush.png",
             "title": "",
             "title_size": "small",
             "title_position": "start"
@@ -232,6 +234,8 @@
         "template--20452967055646__91f4c9f6-5388-40e5-a422-0750072430bd-look-2": {
           "type": "look",
           "settings": {
+            "image": "shopify:\/\/shop_images\/plastic_Toothbrush.png",
+            "image_mobile": "shopify:\/\/shop_images\/plastic_Toothbrush.png",
             "title": "",
             "title_size": "small",
             "title_position": "start"
