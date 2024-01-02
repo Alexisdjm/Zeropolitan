@@ -86,6 +86,60 @@
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
+
+    <!-- Código JSON-LD para BreadcrumbList -->
+    <script type="application/ld+json" id="breadcrumb">
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": []
+        }
+        </script>
+    <script>
+  function updateBreadcrumb() {
+      // Obtenha a URL da página atual
+      var pageUrl = window.location.href;
+
+      // Divida a URL em partes
+      var urlParts = pageUrl.split('/');
+
+      // Inicialize o breadcrumb com a Página Inicial
+      var breadcrumbData = {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Homepage",
+          "item": urlParts[0] + '//' + urlParts[2] + '/'
+        }]
+      };
+
+      // Construa o breadcrumb com base na URL atual
+      for (var i = 3; i < urlParts.length; i++) {
+        var category = decodeURIComponent(urlParts[i]);
+        if (category) {
+          breadcrumbData.itemListElement.push({
+            "@type": "ListItem",
+            "position": i - 1,
+            "name": category,
+            "item": urlParts.slice(0, i + 1).join('/')
+          });
+        }
+      }
+
+      // Atualize o conteúdo do script JSON-LD
+      var breadcrumbScript = document.getElementById('breadcrumb');
+      breadcrumbScript.textContent = JSON.stringify(breadcrumbData, null, 2);
+  }
+
+  // Atualize o breadcrumb quando a página é carregada inicialmente
+  updateBreadcrumb();
+
+  // Atualize o breadcrumb quando a URL é alterada (navegação)
+  window.addEventListener('popstate', updateBreadcrumb);
+</script>
+    
   </head>
 
   <body class="template-{{ request.page_type }}{% if request.design_mode %} shopify-design-mode{% endif %}"
